@@ -2,7 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To use it in your chrome browser
+### open chrome extension -> load unpacked -> build :and your extension will get loaded in the chrome browser
+
 ## Available Scripts
+
 
 In the project directory, you can run:
 
